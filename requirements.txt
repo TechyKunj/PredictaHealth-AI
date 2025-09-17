@@ -1,10 +1,7 @@
-numpy
-pickle-mixin
-streamlit
-streamlit-option-menu
+numpy==1.25.0
 scikit-learn==1.2.2
-google-generativeai
-pandas
-plotly
-matplotlib
-murmurhash
+pandas>=2.0.0
+streamlit>=1.25.0
+streamlit-option-menu>=0.3.0
+plotly>=5.20.0
+google-generativeai>=0.3.0
